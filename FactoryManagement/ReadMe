@@ -1,1 +1,8 @@
+To run the application in the browser, you should go through the following steps:
+1. First run the backend side of the application
+2. Run the client side of the application.
+3. You can log in to the app using the following:
+    Username: Brett
+    Email: Sincere@april.biz
 
+** Ten authorized persons are registered for the application and can enter the system. The ten authorized users are taken from https://jsonplaceholder.typicode.com/users. You can log in using the username and email of each of these authorized persons.
